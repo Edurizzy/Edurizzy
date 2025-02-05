@@ -1,8 +1,8 @@
-<h2 align="left">💾 printf("Hello Word, I'm Rizzi");</h2>
+<h1 align="left">💾 printf("Hello Word, I'm Rizzi");</h1>
 
 ###
 
-<p align="left">My name is Eduardo but everyone calls me Rizzi and I'm a Computer Engineering Student from Brasil.</p>
+<p align="left">My name is Eduardo but everyone calls me Rizzi and I'm a Computer Engineering Student from Brasil <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" />.</p>
 
 ###
 
@@ -12,8 +12,15 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </div>
 
+<p align="left"><br>My Socials:</p>
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+</div>
+
 ###
-<h2></h2>
+<h2>Uh... Some Stats:</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Edurizzy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -21,7 +28,7 @@
 </div>
 
 ###
-<h2></h2>
+<h2>I create with:</h2>
 
 <img align="right" height="150" src="https://i.pinimg.com/736x/d7/b2/e5/d7b2e52d246dffe794a6a1c750a05593.jpg"  />
 
@@ -60,14 +67,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-</div>
+<p align="left"><br>...and a lot more.</p>
 
 ###
 
