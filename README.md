@@ -73,6 +73,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Edurizzy/Edurizzy/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/Edurizzy/Edurizzy/blob/main/.github/workflows/snake.yml" />
 
 ###
