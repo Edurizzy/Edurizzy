@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ I've been creating bug since high school in 2021;<br>📚 I'm currently learning about AI;<br>🎯 Today I am better than yesterday and tomorrow I will be better than today;<br>🎲 Fun fact: I'm Neurodivergent;<br><br>Need a worker? Do reach:</p>
+<p align="left">✨ I've been creating bugs since high school in 2021;<br>📚 I'm currently learning about AI;<br>🎯 Today I am better than yesterday and tomorrow I will be better than today;<br>🎲 Fun fact: I'm Neurodivergent;<br><br>Need a worker? Do reach:</p>
 <div align="left">
   <a href="https://www.linkedin.com/in/eduardo-rizzi-84a023303/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
